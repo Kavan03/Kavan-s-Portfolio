@@ -19,7 +19,7 @@ const Styles = styled.div`
 `;
 
 export default function Projects() {
-  const [projectData, setProjectData] = useState(ProjectInfo);
+  const [projectData] = useState(ProjectInfo);
   return (
     <Styles>
       <div className="container">

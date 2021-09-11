@@ -188,7 +188,7 @@ export default function MainSection() {
                   <a
                     href="mailto:kavanp193@gmail.com"
                     target="_blank"
-                    rel="noreferrer"
+                    rel="noopener noreferrer"
                   >
                     GM
                   </a>
@@ -197,7 +197,7 @@ export default function MainSection() {
                   <a
                     href="https://www.linkedin.com/in/kavan-patel-77a945143"
                     target="_blank"
-                    rel="noreferrer"
+                    rel="noopener noreferrer"
                   >
                     LI
                   </a>
